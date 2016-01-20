@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/itg.dark.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"extract_sublime_package_ask_on_open": true,
 	"folder_exclude_patterns":
@@ -19,6 +19,5 @@
 	"line_padding_top": 3,
 	"material_theme_accent_red": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Material-Theme.sublime-theme",
-	"extract_sublime_package_ask_on_open": true
+	"theme": "Material-Theme.sublime-theme"
 }
